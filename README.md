@@ -1,1 +1,1 @@
-Checking VErson control System
+Checking on verson control system
